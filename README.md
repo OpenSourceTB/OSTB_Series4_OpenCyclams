@@ -18,3 +18,9 @@ We now present these linear amines as OSTB_Series 4_OpenCyclams. This series of 
 
 **Series 4B:**  applying reagent-based diversity-oriented synthesis (DOS) on the linear hexadiamine scaffold to produce a series of molecules with pendant groups that cover a broad range of chemical space, readily accessible from relatively similar linear polyamine substrates.
 
+
+## Find out more 
+
+If you want to get involved, head over to the Wiki tab to find out more about open-source drug discovery, how to use GitHub, and the status of this project. 
+
+<img width="400" src="https://user-images.githubusercontent.com/78768991/118577959-a8ea3780-b7ce-11eb-9d42-3cd9bc26d30d.jpg">
